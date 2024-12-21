@@ -1,0 +1,1 @@
+print(variavel_nao_definida)
